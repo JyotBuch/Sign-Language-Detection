@@ -1,4 +1,4 @@
-<h2>Digit Recognizer | Kaggle Dataset</h2>
+<h2>Sign Language Recognizer | Kaggle Dataset</h2>
   <br>
   Link to dataset - https://www.kaggle.com/datamunge/sign-language-mnist
   <br>  
